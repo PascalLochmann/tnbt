@@ -1,1 +1,8 @@
-Just a TXT written on the web!
+Sternspuren:
+-Einblenden von Sternspuren in Tagesaufnahmen gemäß der örtlichen Ausrichtung
+-Einzeichnen der Spuren gemäß vorgegebenem Zeitraum und Startzeit
+-Aufnahme vonEinzlebildern mit Zusammenfassung als Sternpuraufnahme oder als Film oder beides
+
+Sternbilder und Mond:
+-Einblenden der Sternbilder und des Mondes gemäß vorgegebener Uhrzeit und Ausrichtung in ein Bild
+-Berechnung des idealen Zeitpunktes für eine vorgegebene Position der Sternbilder bzw. des Mondes
