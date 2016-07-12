@@ -1,8 +1,20 @@
 Sternspuren:
+============
 -Einblenden von Sternspuren in Tagesaufnahmen gemäß der örtlichen Ausrichtung
 -Einzeichnen der Spuren gemäß vorgegebenem Zeitraum und Startzeit
--Aufnahme vonEinzlebildern mit Zusammenfassung als Sternpuraufnahme oder als Film oder beides
+-Aufnahme von Einzlebildern mit Zusammenfassung als Sternspuraufnahme oder als Film oder beides
+-Empfehlung eines Standortes für die Aufnahme um möglichst signifikante Bögen und den Drehmittelpunkt mit zu erfassen
+ => Empfehlung für die Position, den Aufnahmebeginn und die Dauer, auch Mondposition für die Berechnung berücksichtigen!
 
-Sternbilder und Mond:
--Einblenden der Sternbilder und des Mondes gemäß vorgegebener Uhrzeit und Ausrichtung in ein Bild
--Berechnung des idealen Zeitpunktes für eine vorgegebene Position der Sternbilder bzw. des Mondes
+Sternbilder, Sonne, Mond und Astroereignisse:
+=============================================
+-Einblenden der Sternbilder, der Sonne und des Mondes gemäß vorgegebener Uhrzeit und Ausrichtung in ein Bild
+-Berechnung des idealen Zeitpunktes für eine vorgegebene Position der Sternbilder, der Sonne bzw. des Mondes
+-Darstellung des virtuellen Ursprungsortes (Radiant) von Meteorströmen mit Zeitpunkt des Maximums
+
+Landschaft, Sehenswürdigkeiten und Gebäude:
+===========================================
+-Scannen des Bildes und einblenden von Zusatzinformationen (Name der Berge, Geschäfte/Firmen im Gebäude, Name/Info's zu Sehenswürdigkeiten) - Altenrativ Objektwahl (was als solches idnetifiziert werden kann) mit Info's zu diesem Objekt
+-Einfügen von Zusatzinformationen zu bestehenden Einträgen ermöglichen
+-Einfügen eines ersten Eintrages für ein Gebäude, einen Berg oder eine Sehenswürdigkeit
+-Freie Kommentare zu Objekten zulassen
