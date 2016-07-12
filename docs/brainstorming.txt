@@ -2,15 +2,18 @@ Sternspuren:
 ============
 -Einblenden von Sternspuren in Tagesaufnahmen gemäß der örtlichen Ausrichtung
 -Einzeichnen der Spuren gemäß vorgegebenem Zeitraum und Startzeit
--Aufnahme von Einzlebildern mit Zusammenfassung als Sternspuraufnahme oder als Film oder beides
+-Aufnahme von Einzelbildern mit Zusammenfassung als Sternspuraufnahme oder als Film oder beides
 -Empfehlung eines Standortes für die Aufnahme um möglichst signifikante Bögen und den Drehmittelpunkt mit zu erfassen
  => Empfehlung für die Position, den Aufnahmebeginn und die Dauer, auch Mondposition für die Berechnung berücksichtigen!
+-Einstellungsempfehlung für DSLR um die Aufnahme erstellen zu können (Brennweite, Dauer Einzelbelichtung, Anzahl Aufnahmen, Startzeitpunkt)
 
 Sternbilder, Sonne, Mond und Astroereignisse:
 =============================================
 -Einblenden der Sternbilder, der Sonne und des Mondes gemäß vorgegebener Uhrzeit und Ausrichtung in ein Bild
 -Berechnung des idealen Zeitpunktes für eine vorgegebene Position der Sternbilder, der Sonne bzw. des Mondes
 -Darstellung des virtuellen Ursprungsortes (Radiant) von Meteorströmen mit Zeitpunkt des Maximums
+-Durchführen der Aufnahme mit dem Smartphone, damti Astroobjekt sichtbar wird/ist.
+-Einstellungsempfehlung für DSLR um die Aufnahme erstellen zu können (Brennweite, Dauer Einzelbelichtung, Anzahl Aufnahmen, Startzeitpunkt)
 
 Landschaft, Sehenswürdigkeiten und Gebäude:
 ===========================================
@@ -18,3 +21,6 @@ Landschaft, Sehenswürdigkeiten und Gebäude:
 -Einfügen von Zusatzinformationen zu bestehenden Einträgen ermöglichen
 -Einfügen eines ersten Eintrages für ein Gebäude, einen Berg oder eine Sehenswürdigkeit
 -Freie Kommentare zu Objekten zulassen
+-Kopie des Bildes inklusive der zusatzinfromationen erstellen.
+-Switch mit dem ausgewählten Objekt als Zielpunkt auf die Karten/Routing APP
+-Webrecherche für das Objekt
