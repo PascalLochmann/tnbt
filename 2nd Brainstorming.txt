@@ -1,0 +1,27 @@
+APP für "Freude am Fahren"
+
+-Die Handy Nummer ist der Account
+-Im Profil kann ein Bild von sich und seinem Fahrzeug abgelegt werden
+-Der User entscheidet, wie er in der Community sichtbar ist
+-Die Community kann durchsucht werden (Region, Fahrzeug, Streckenchracteristik, ...)
+-Ranglisten für Region, Fahrzeug, Streckenarten nach Topspeed, Durchschnittsspeed, Beschleunigung, ...
+
+Messwertaufnahme:
+-Handy muss horizontal bzw. vertikal zur Fahrtrichtung liegen
+-Messung wird manuell im Stand gestartet
+-Aufnahme von Ort, Zeit, Geschwindigkeit, Horizontal und Querbeschleunigung, Höhenveränderung
+-Fahrt kann gespeichert und/oder veröffentlicht werden.
+
+Auswertung:
+-Diagramme der Messwerte
+-Darstellung der Min und Max Werte
+-Automatische Detektion der Region, Streckencharakteristik
+
+Sonderfunktionen:
+-HUD für Geschwindigkeit
+-HUD für Kompass/Position
+-HUD laufende Messwerte
+
+Integration:
+-Navigation
+-Karten
